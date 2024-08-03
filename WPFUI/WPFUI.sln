@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFUI", "WPFUI.csproj", "{EC0C4445-C14D-460E-9717-3A320D948F43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine", "..\Engine\Engine.csproj", "{539D1B7B-99C5-4A46-B144-8D29DABE642F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC0C4445-C14D-460E-9717-3A320D948F43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0C4445-C14D-460E-9717-3A320D948F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0C4445-C14D-460E-9717-3A320D948F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0C4445-C14D-460E-9717-3A320D948F43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{539D1B7B-99C5-4A46-B144-8D29DABE642F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{539D1B7B-99C5-4A46-B144-8D29DABE642F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{539D1B7B-99C5-4A46-B144-8D29DABE642F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{539D1B7B-99C5-4A46-B144-8D29DABE642F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B4F6517-64C1-4F81-AC9F-A65328EFD03F}
+	EndGlobalSection
+EndGlobal
